@@ -5,22 +5,22 @@ Place holder for xfGuestbook Tutorial.
 xfGuestbook is located here: https://github.com/XoopsModules25x/xfguestbook
 =======
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](en/assets/logoXoops.jpg)
+![](en/assets/logoXoops.jpg)
 
 # Module xfGuestbook
-#### for XOOPS 2.5.8
+#### for XOOPS 2.5.9
       
-![logoModule.png](en/assets/logoModule.png)
+![](en/assets/logoModule.png)
             
 ## User Manual
 
-© 2016 XOOPS Project ([www.xoops.org](https://xoops.org))  
+© 2018 XOOPS Project ([www.xoops.org](https://xoops.org))  
 
 ## Module Purpose 
 
 This module is a simple Guestbook for the visitors of your Website.
 
-![image001.png](en/assets/image001.png)
+![](en/assets/image001.png)
 *Figure 1: Main view of the xfGuestbook Module (Admin side)*
 
 ## Download/Fork the Module ![](https://xoops.org/images/forkit.png) 
@@ -46,7 +46,7 @@ Editing the book can be done either by updating the markdown files with a text e
 * [Module Credits](en/book/9credits.md)
 * [About XOOPS CMS](en/book/10aboutxoops.md)
 
-##License:
+## License:
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 

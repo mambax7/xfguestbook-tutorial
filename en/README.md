@@ -1,16 +1,10 @@
-<<<<<<< HEAD
-# xfguestbook-tutorial
-Place holder for xfGuestbook Tutorial. 
-
-xfGuestbook is located here: https://github.com/XoopsModules25x/xfguestbook
-=======
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](en/assets/logoXoops.jpg)
+![logoXoops.jpg](assets/logoXoops.jpg)
 
 # Module xfGuestbook
-#### for XOOPS 2.5.8
+#### for XOOPS 2.5.7
       
-![logoModule.png](en/assets/logoModule.png)
+![logoModule.png](assets/logoModule.png)
             
 ## User Manual
 
@@ -18,9 +12,9 @@ xfGuestbook is located here: https://github.com/XoopsModules25x/xfguestbook
 
 ## Module Purpose 
 
-This module is a simple Guestbook for the visitors of your Website.
+This module is a simple Guestbook for your visitors
 
-![image001.png](en/assets/image001.png)
+![image001.png](assets/image001.png)
 *Figure 1: Main view of the xfGuestbook Module (Admin side)*
 
 ## Download/Fork the Module ![](http://xoops.org/images/forkit.png) 
@@ -35,20 +29,19 @@ Editing the book can be done either by updating the markdown files with a text e
 
 # Table of Content
 
-* [Install/Uninstall](en/book/1install.md)
-* [Administration Menu](en/book/2administration.md)
-* [Preferences](en/book/3preferences.md)
-* [Operating Instructions](en/book/4operations.md)
-* [The User Side](en/book/5userside.md)
-* [Blocks](en/book/6blocks.md)
-* [Templates](en/book/7templates.md)
-* [Miscellaneous](en/book/8other.md) 
-* [Module Credits](en/book/9credits.md)
-* [About XOOPS CMS](en/book/10aboutxoops.md)
+* [Install/Uninstall](book/1install.md)
+* [Administration Menu](book/2administration.md)
+* [Preferences](book/3preferences.md)
+* [Operating Instructions](book/4operations.md)
+* [The User Side](book/5userside.md)
+* [Blocks](book/6blocks.md)
+* [Templates](book/7templates.md)
+* [Miscellaneous](book/8other.md) 
+* [Module Credits](book/9credits.md)
+* [About XOOPS CMS](book/10aboutxoops.md)
 
 ##License:
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 All derivative works are to be attributed to XOOPS Project ([www.xoops.org](http://xoops.org))
->>>>>>> b6420dc098fcea286b946b0afb78aa53511cadc5

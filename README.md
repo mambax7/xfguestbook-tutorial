@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # xfguestbook-tutorial
 Place holder for xfGuestbook Tutorial. 
 
@@ -8,13 +7,15 @@ xfGuestbook is located here: https://github.com/XoopsModules25x/xfguestbook
 ![](en/assets/logoXoops.jpg)
 
 # Module xfGuestbook
-#### for XOOPS 2.5.9
+#### for XOOPS 2.5.10+
+
+#### for PHP 7.1+
       
 ![](en/assets/logoModule.png)
             
 ## User Manual
 
-© 2018 XOOPS Project ([www.xoops.org](https://xoops.org))  
+© 2020 XOOPS Project ([www.xoops.org](https://xoops.org))  
 
 ## Module Purpose 
 

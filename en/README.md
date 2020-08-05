@@ -2,13 +2,15 @@
 ![](assets/logoXoops.jpg)
 
 # Module xfGuestbook
-#### for XOOPS 2.5.7
+#### for XOOPS 2.5.10+
+
+#### for PHP 7.1+
       
 ![](assets/logoModule.png)
             
 ## User Manual
 
-© 2018 XOOPS Project ([www.xoops.org](https://xoops.org))  
+© 2020 XOOPS Project ([www.xoops.org](https://xoops.org))  
 
 ## Module Purpose 
 
